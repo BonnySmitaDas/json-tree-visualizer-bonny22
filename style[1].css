@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  text-align: center;
+  padding: 20px;
+}
+textarea {
+  width: 80%;
+  height: 150px;
+  margin: 10px 0;
+}
+button {
+  background: #0078D7;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#treeContainer {
+  margin-top: 20px;
+  text-align: left;
+  display: inline-block;
+}
+.node {
+  margin-left: 20px;
+  font-family: monospace;
+}
